@@ -96,7 +96,7 @@ The way these models work are really cool and the method was taught to me by [@T
 
 In any case, my facial rig is a little derivative of his, and that I mean we utilize the custom properties panel!
 
-<iframe src="https://drive.google.com/file/d/1USZMsqD6WTS-V2OPrENxZ_aF-diJEGSv/preview" width="640" height="480"></iframe>
+![image](https://drive.google.com/uc?export=view&id=1USZMsqD6WTS-V2OPrENxZ_aF-diJEGSv)
 
 ### Custom Properties and Expressions
 
@@ -108,7 +108,7 @@ You have nothing to be afraid of though!. Changing the expression is as simple a
 
 Shift your attention to the bottom of the viewport, and you're met with all the possible expressions the character can pull off. In order to apply one, you'll need to make sure no bones are highlighted beforehand, and just click on any expression you want to apply it. 
 
-##### NOTE THAT, in order to keyframe expressions for animation, you MUST have the EXRESSIONS Bone Group enabled, and make sure include the custom properties while keyframing.
+***NOTE THAT, in order to keyframe expressions for animation, you MUST have the EXRESSIONS Bone Group enabled, and make sure include the custom properties while keyframing.***
 
 ### IK + FK Switch
 
@@ -141,7 +141,7 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
 #### Creator: ChickenWingJohnny
 
-###### Characters Created and Owned by SegaSammy Inc. and Sonic Team.
+###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
 
 Newgrounds - https://chickenwingjohnny.newgrounds.com/
 
