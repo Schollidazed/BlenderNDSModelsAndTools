@@ -72,7 +72,7 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
 
 # Table of Contents
 
-- [About The Project](#about-the-project)
+- [About This Page](#about-this-page)
 - [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 - [Usage](#usage)
@@ -86,7 +86,7 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
 - [License](#license)
 - [Contact](#contact)
 
- # About The Project
+ # About This Page
 
 ![Example Render](https://cdn.discordapp.com/attachments/842772043468242977/1219054419862229122/RushAnnounce.png?ex=662ed1e6&is=661c5ce6&hm=f3c0bbb3b3f59b9e0ce5cb4d5413755298b25dbab108c6b91239b7f1b674dc3d&)
 
