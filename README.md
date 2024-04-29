@@ -121,6 +121,8 @@ In order to utilize these models, you'll need to:
 
 You can use this for whatever project you'd want! Fangame, animation, whatever! My only request is that you credit me, and link back to here. Some of my various platforms are listed at the end of this ReadMe and my profile, do take a look!
 
+When it comes to things I don't want them used for, no NSFW or hate. I don't want these models and myself to be affiliated with those. 
+
 ### Blender Tutorial
 
 The way these models work are really cool and the part of my methods that I used, particularly of the facial rig, was taught to me by the amazing [@TheSicklyWizard](https://www.youtube.com/@TheSicklyWizard) on Youtube. He's been making some FANTASTIC content over there, and I highly recommend his tutorials when it comes to his rigging series.
