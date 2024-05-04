@@ -72,6 +72,7 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
 
 # Table of Contents
 
+- [Contact](#contact)
 - [About This Page](#about-this-page)
 - [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -84,13 +85,26 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
   * [Tool Tutorial](#tool-tutorial)
 - [Roadmap](#roadmap)
 - [License](#license)
-- [Contact](#contact)
+ 
+ # Contact
+
+#### Creator: ChickenWingJohnny
+
+###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
+
+Newgrounds - https://chickenwingjohnny.newgrounds.com/
+
+Twitter/X - [@ChknWingJonny](https://twitter.com/ChknWingJonny)
+
+Youtube - [@ChickenWingJohnny](https://www.youtube.com/@ChickenWingJohnny)
+
+Project Link - https://github.com/ChickenWingJohnny/BlenderNDSModelsAndTools
 
  # About This Page
 
 ![Example Render](https://cdn.discordapp.com/attachments/842772043468242977/1219054419862229122/RushAnnounce.png?ex=662ed1e6&is=661c5ce6&hm=f3c0bbb3b3f59b9e0ce5cb4d5413755298b25dbab108c6b91239b7f1b674dc3d&)
 
-So you wanna check out my models? Awesome! Just go ahead, download the repo, and import them to get started. However, before doing that, I'd recommend taking a look through this ReadMe. It's short, organized, and will only take like 5 minutes. 
+So you wanna check out my models? You may have seen them used in many of my projects, such as my fan game **Sonic Rush 3D** and some animations of mine. Awesome! Just go ahead, download the repo, and import them to get started. However, before doing that, I'd recommend taking a look through this ReadMe. It's short, organized, and will only take like 5 minutes. 
 
 Trust me, it will save you time! 
 
@@ -106,6 +120,8 @@ In order to utilize these models, you'll need to:
  ## Usage
 
 You can use this for whatever project you'd want! Fangame, animation, whatever! My only request is that you credit me, and link back to here. Some of my various platforms are listed at the end of this ReadMe and my profile, do take a look!
+
+When it comes to things I don't want them used for, no NSFW or hate. I don't want these models and myself to be affiliated with those. 
 
 ### Blender Tutorial
 
@@ -155,17 +171,3 @@ Not in any specific order...
  ## License
 
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
- ## Contact
-
-#### Creator: ChickenWingJohnny
-
-###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
-
-Newgrounds - https://chickenwingjohnny.newgrounds.com/
-
-Twitter/X - [@ChknWingJonny](https://twitter.com/ChknWingJonny)
-
-Youtube - [@ChickenWingJohnny](https://www.youtube.com/@ChickenWingJohnny)
-
-
-Project Link - https://github.com/ChickenWingJohnny/BlenderNDSModelsAndTools
