@@ -159,7 +159,7 @@ Not in any specific order...
 - [X] Tails the Fox
 - [ ] Eggman
 - [ ] Eggman Nega
-- [ ] Cream the Rabbit
+- [X] Cream the Rabbit
 - [ ] Chao/Cheese the Chao
 - [ ] Super Sonic
 - [ ] Burning Blaze
