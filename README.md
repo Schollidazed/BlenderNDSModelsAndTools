@@ -59,7 +59,7 @@
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
 <img src="https://avatars.githubusercontent.com/u/61301337?v=4" alt="Logo" width="80" height="80">
 </a>
-<h3 align="center">CWJonJon's Blender Models and Tools</h3>
+<h3 align="center">Schollidazed's Blender Models and Tools</h3>
 <p align="center">
 Low-Spec 3D Models with a bit of a High-Tech Edge.
 
@@ -88,17 +88,17 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
  
  # Contact
 
-#### Creator: ChickenWingJohnny
+#### Creator: Schollidazed (Formerly Known As ChickenWingJohnny)
 
 ###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
 
-Newgrounds - https://chickenwingjohnny.newgrounds.com/
+Newgrounds - https://Schollidazed.newgrounds.com/
 
-Twitter/X - [@ChknWingJonny](https://twitter.com/ChknWingJonny)
+Twitter/X - [@Schollidazed](https://twitter.com/ChknWingJonny)
 
-Youtube - [@ChickenWingJohnny](https://www.youtube.com/@ChickenWingJohnny)
+Youtube - [@Schollidazed](https://www.youtube.com/@ChickenWingJohnny)
 
-Project Link - https://github.com/ChickenWingJohnny/BlenderNDSModelsAndTools
+Project Link - https://github.com/Schollidazed/BlenderNDSModelsAndTools
 
  # About This Page
 
