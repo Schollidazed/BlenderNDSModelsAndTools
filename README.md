@@ -92,11 +92,11 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
 
 ###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
 
-Newgrounds - https://Schollidazed.newgrounds.com/
+Newgrounds - https://ChickenWingJohnny.newgrounds.com/
 
-Twitter/X - [@Schollidazed](https://twitter.com/ChknWingJonny)
+Twitter/X - [@Schollidazed](https://twitter.com/Schollidazed)
 
-Youtube - [@Schollidazed](https://www.youtube.com/@ChickenWingJohnny)
+Youtube - [@Schollidazed](https://www.youtube.com/@Schollidazed)
 
 Project Link - https://github.com/Schollidazed/BlenderNDSModelsAndTools
 
