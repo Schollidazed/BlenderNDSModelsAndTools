@@ -1,59 +1,3 @@
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
@@ -102,11 +46,11 @@ Project Link - https://github.com/Schollidazed/BlenderNDSModelsAndTools
 
  # About This Page
 
-![Example Render](https://cdn.discordapp.com/attachments/842772043468242977/1219054419862229122/RushAnnounce.png?ex=662ed1e6&is=661c5ce6&hm=f3c0bbb3b3f59b9e0ce5cb4d5413755298b25dbab108c6b91239b7f1b674dc3d&)
+![Example Render](https://drive.google.com/uc?export=view&id=1Cg1wMWzTM1Z9OLYkh388Lb6gIIkBCb-8)
 
-So you wanna check out my models? You may have seen them used in many of my projects, such as my fan game **Sonic Rush 3D** and some animations of mine. Awesome! Just go ahead, download the repo, and import them to get started. However, before doing that, I'd recommend taking a look through this ReadMe. It's short, organized, and will only take like 5 minutes. 
+So you wanna check out these models? You may have seen them used in many of my/others projects, such as the fan game **Sonic Rush 3D** and some animations of mine/others on the world wide web. Awesome! Just go ahead, download the repo, and import them to get started. However, before doing that, I'd recommend taking a look through this ReadMe. It's short, concise, organized, and will only take 5 minutes of your time. 
 
-Trust me, it will save you time! 
+Trust me, **it will save you time!** 
 
  ## Getting Started
 
@@ -127,19 +71,21 @@ When it comes to things I don't want them used for, no NSFW or hate. I don't wan
 
 The way these models work are really cool and the part of my methods that I used, particularly of the facial rig, was taught to me by the amazing [@TheSicklyWizard](https://www.youtube.com/@TheSicklyWizard) on Youtube. He's been making some FANTASTIC content over there, and I highly recommend his tutorials when it comes to his rigging series.
 
-![image](https://drive.google.com/uc?export=view&id=1USZMsqD6WTS-V2OPrENxZ_aF-diJEGSv)
+![image](https://drive.google.com/uc?export=view&id=1Xm9nFNRKpMYw8y8XYecDw74S4VgSQLII)
 
 #### Custom Properties and Expressions
 
 Let's take a deep dive into this screenshot here. On the right of the viewport, underneath the model LocRotScale info is the elusive **Custom Properties** channel... *oooOOOoooOooOooOoo*
 
-You have nothing to be afraid of though!. Changing the expression is as simple as toggling the switches. But that's if you want a more direct approach. for a more intuitive approach, you can use the **Pose Library**.
+You have nothing to be afraid of though! Click on one of the expression bones above sonic, and changing his expression is as simple as changing the number on the left. But that's if you want a more direct approach. for a more intuitive approach, you can use the **Pose Library**.
 
 #### Pose Library
 
 Shift your attention to the bottom of the viewport, and you're met with all the possible expressions the character can pull off. In order to apply one, you'll need first be in pose mode and make sure no bones are highlighted beforehand. Just click on any expression you want to apply it. 
 
 ***NOTE THAT, in order to keyframe expressions for animation, you MUST have the EXRESSIONS Bone Group enabled, and make sure include the custom properties while keyframing.***
+
+Pretty cool huh?
 
 #### IK + FK Switch
 
