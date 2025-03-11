@@ -77,7 +77,7 @@ The way these models work are really cool and the part of my methods that I used
 
 Let's take a deep dive into this screenshot here. On the right of the viewport, underneath the model LocRotScale info is the elusive **Custom Properties** channel... *oooOOOoooOooOooOoo*
 
-You have nothing to be afraid of though! Click on one of the expression bones above sonic, and changing his expression is as simple as changing the number on the left. But that's if you want a more direct approach. for a more intuitive approach, you can use the **Pose Library**.
+You have nothing to be afraid of though! Click on one of the expression bones above sonic, and changing his expression is as simple as changing the number on the right. But that's if you want a more direct approach. for a more intuitive approach, you can use the **Pose Library**.
 
 #### Pose Library
 
