@@ -46,7 +46,7 @@ Project Link - https://github.com/Schollidazed/BlenderNDSModelsAndTools
 
  # About This Page
 
-![Example Render](https://drive.google.com/uc?export=view&id=1Cg1wMWzTM1Z9OLYkh388Lb6gIIkBCb-8)
+![Example Render](https://drive.google.com/uc?export=view&id=1ETYov5OI15nmrHiku7zq2ck14905W2Hf)
 
 So you wanna check out these models? You may have seen them used in many of my/others projects, such as the fan game **Sonic Rush 3D** and some animations of mine/others on the world wide web. Awesome! Just go ahead, download the repo, and import them to get started. However, before doing that, I'd recommend taking a look through this ReadMe. It's short, concise, organized, and will only take 5 minutes of your time. 
 
@@ -71,7 +71,7 @@ When it comes to things I don't want them used for, no NSFW or hate. I don't wan
 
 The way these models work are really cool and the part of my methods that I used, particularly of the facial rig, was taught to me by the amazing [@TheSicklyWizard](https://www.youtube.com/@TheSicklyWizard) on Youtube. He's been making some FANTASTIC content over there, and I highly recommend his tutorials when it comes to his rigging series.
 
-![image](https://drive.google.com/uc?export=view&id=1Xm9nFNRKpMYw8y8XYecDw74S4VgSQLII)
+![image](https://drive.google.com/uc?export=view&id=1GqjYl8SGP-SSQ6mFBwj7ZNJyEilEOq5R)
 
 #### Custom Properties and Expressions
 
@@ -95,7 +95,19 @@ Another cool feature of note is the IK/FK switch for each limb. You'll see a cro
 The Quills and Ears all have wiggle bones by default for easy motion tracking. It uses the very popular [Wiggle2 Addon](https://github.com/shteeve3d/blender-wiggle-2), which I'd reccomend reading up on before utilizing. It requires movement in the timeline in order to work, and you can bake the physics into the animation from there.
 
 ### Tool Tutorial
-To be made later...
+![ToolTutorial](https://drive.google.com/uc?export=view&id=1Volnm17njD8-wRayh3cayzg0D3OltkkL)
+
+Now the HUGE tool that I've written specifically for blender is for exporting the expressions for actions that you make inside a blend file into a universal format: JSON! You can then utilize these wherever you decide to implement the main "armature" animations. We used these EXTENSIVELY for Rush 3D, though I'd love to see where YOU decide to utilize them.
+
+Now to open it in blender, you first need to navigate to the scripts workspace shown above, click "open", and navigate to the ExpressionsToJSON python file. It should import like so. Then, click the run script button, and you'll get a pop up in your main blender workspace:
+
+![ToolTutorial2](https://drive.google.com/uc?export=view&id=16EQFGnSIAc-TS2z0W5aFVof15fELqmDT)
+
+***TA-DAA!!*** *Easy to navigate Blender UI!!*
+
+Now all you need to do is link the armature you'd like to export, select the corresponding bones, and click export actions. This should bring up a file directory where you can navigate where you'd like to save the JSON, and what you'd like to call it. Click save, and it'll automatically parse your blender file for actions you've made, and extract those animations. Easy as that!
+
+If you'd like to sort them by name, there's another helper script for that, although you'll need some form of python to run it. Just run the python script by itself, and you can navigate to the proper json file, and it'll sort your actions for you.
 
  ## Roadmap
 
