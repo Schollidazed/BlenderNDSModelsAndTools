@@ -119,7 +119,7 @@ Not in any specific order...
 - [ ] Eggman Nega
 - [X] Cream the Rabbit
 - [ ] Chao/Cheese the Chao
-- [ ] Super Sonic
+- [X] Super Sonic
 - [ ] Burning Blaze
 - [ ] Shadow the Hedgehog
 - [ ] Amy Rose
