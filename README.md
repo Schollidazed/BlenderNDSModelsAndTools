@@ -36,7 +36,7 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
 
 ###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
 
-Newgrounds - https://ChickenWingJohnny.newgrounds.com/
+Newgrounds - [@Schollidazed](https://schollidazed.newgrounds.com/)
 
 Twitter/X - [@Schollidazed](https://twitter.com/Schollidazed)
 
