@@ -121,7 +121,7 @@ Not in any specific order...
 - [ ] Chao/Cheese the Chao
 - [X] Super Sonic
 - [ ] Burning Blaze
-- [ ] Shadow the Hedgehog
+- [X] Shadow the Hedgehog
 - [ ] Amy Rose
 - [ ] Knuckles the Echidna
 - [ ] Vanilla the Rabbit
