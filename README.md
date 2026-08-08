@@ -34,7 +34,11 @@ Low-Spec 3D Models with a bit of a High-Tech Edge.
 
 #### Creator: Schollidazed (Formerly Known As ChickenWingJohnny)
 
-###### Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
+###### Sonic Characters Created and Owned by SegaSammy Holdings Inc. and Sonic Team.
+###### Deltarune Characters Created and Owned by Toby Fox
+
+###### NOTE: Sonic, Super Sonic, Blaze, and Tails 3D models were all originally made by Sonic Team for 2007's Sonic Rush Adventure. They have been slightly modified by me (texture work/animation-ready rigging). All other characters in this repository have been modeled by yours truly :D
+
 
 Newgrounds - [@Schollidazed](https://schollidazed.newgrounds.com/)
 
@@ -58,12 +62,12 @@ As I said earlier, just download the source code, and you'll be more than set. H
  ### Prerequisites
 
 In order to utilize these models, you'll need to:
-- Have Blender 4.0 or Higher installed, the models won't load otherwise.
-- ***Credit me!*** While I didn't make these models, I put time and effort into making additional textures and the rigs. You can do this by either tagging me, and/or linking people back to this repo.
-- Uhhhh be really cool I guess? (Which if you're reading this, you are btw, keep it up! :D) 
+- Have Blender 4.0 or Higher installed, the models may not load otherwise. (I usually use the latest version to keep up to date, give me a shout if these break blender for you!!)
+- ***Credit me!*** While I didn't make some of these models, I put time and effort into making additional textures and the rigs. You can tag me, and/or link people back to this repo so that more people can create cool things! Tagging me will also get me to see what my models are being used for, and see all the amazing stuff you make.
+- Uhhhh be really cool I guess? (Which if you've read this far, you are btw. Keep it up! :D) 
  ## Usage
 
-You can use this for whatever project you'd want! Fangame, animation, whatever! My only request is that you credit me, and link back to here. Some of my various platforms are listed at the end of this ReadMe and my profile, do take a look!
+You can use this for whatever project you'd want! Fangame, animation, whatever! My only request is that you drop my @, and link back to here. Some of my various platforms are listed at the end of this ReadMe and my profile, do take a look!
 
 When it comes to things I don't want them used for, no NSFW or hate. I don't want these models and myself to be affiliated with those. 
 
@@ -89,15 +93,15 @@ Pretty cool huh?
 
 #### IK + FK Switch
 
-Another cool feature of note is the IK/FK switch for each limb. You'll see a cross and inside it's custom properties, it should have a toggle for IK. Flip it for position based control. Unfortunately, I've yet to figure out position tracking for easy transitions between kinematics. *Remember that custom property keyframing still applies here.*
+Another cool feature of note is the IK/FK switch for each limb. You'll see a cross and inside it's custom properties, it should have a toggle for IK. Flip it for position based control. Unfortunately, I've yet to figure out position tracking for easy transitions between kinematics. *Remember that custom property key-framing still applies here.*
 
 #### Wiggle Bones
-The Quills and Ears all have wiggle bones by default for easy motion tracking. It uses the very popular [Wiggle2 Addon](https://github.com/shteeve3d/blender-wiggle-2), which I'd reccomend reading up on before utilizing. It requires movement in the timeline in order to work, and you can bake the physics into the animation from there.
+The Quills and Ears all have wiggle bones by default for easy motion tracking/physics animation. It uses the very popular [Wiggle2 Addon](https://github.com/shteeve3d/blender-wiggle-2), which I'd recommend reading up on before utilizing. It requires movement in the timeline in order to work, and you can bake the physics into the animation from there.
 
 ### Tool Tutorial
 ![ToolTutorial](https://drive.google.com/uc?export=view&id=1Volnm17njD8-wRayh3cayzg0D3OltkkL)
 
-Now the HUGE tool that I've written specifically for blender is for exporting the expressions for actions that you make inside a blend file into a universal format: JSON! You can then utilize these wherever you decide to implement the main "armature" animations. We used these EXTENSIVELY for Rush 3D, though I'd love to see where YOU decide to utilize them.
+Now the HUGE tool that I've written specifically for blender is for exporting the expressions for actions that you make inside a blend file into a universal format: JSON! You can then utilize these wherever you decide to implement the main "armature" animations. We used these EXTENSIVELY for Rush 3D, though I'd love to see where YOU decide to utilize them... *WINK*
 
 Now to open it in blender, you first need to navigate to the scripts workspace shown above, click "open", and navigate to the ExpressionsToJSON python file. It should import like so. Then, click the run script button, and you'll get a pop up in your main blender workspace:
 
@@ -126,6 +130,7 @@ Not in any specific order...
 - [ ] Knuckles the Echidna
 - [ ] Vanilla the Rabbit
 - [ ] Chocola the Chao
+- [ ] Marine the Racoon
  ## License
 
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
