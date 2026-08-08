@@ -109,6 +109,7 @@ Now if it feels like I'm over-explaining things there, I kind of am, but I just 
 Every model's expressions were originally UV Mapped with one texture, this is a holdover from my original way of texturing, hence the small history lesson at the start of the section. This holdover, however, can make it easier for you if you want to create your own texture on its own image. If you want to turn off the atlas and focus on a single texture, you can do that by disconnecting the UV atlas driver, and replacing the image in the orange node in the middle with your own.
 
 Alternitively, if you want to draw on the atlas, you're completely free to do so. Just know that 
+
   a) All textures have been packed into the file. In order to change them, first unpack them, and then change the png accordingly
   
   b) Each expression is the same width and the same height, so just divide the width by the number of columns, and the height by the number of rows, and you should get the exact dimension of space that your texture should take up.
